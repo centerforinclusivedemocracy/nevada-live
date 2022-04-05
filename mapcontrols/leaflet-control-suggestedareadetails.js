@@ -13,7 +13,6 @@ L.Control.SuggestedAreaDetails = L.Control.extend({
         this.container.innerHTML = '<h4>Characteristics of Suggested Area (0.5 mi. Square)</h4>';
 
         this.detailsarea = L.DomUtil.create('div', 'leaflet-suggestedarea-details', this.container);
-        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="id"></span> Site ID<br/>';
         this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="vage"></span> Percent of County Voting Age Citizens<br/>';
         this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="cowo"></span> Percent of County Workers<br/>';
         this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="popd"></span> Population Density<br/>';
@@ -62,21 +61,16 @@ L.Control.SuggestedAreaDetails = L.Control.extend({
             $swatch.removeClass('leaflet-suggestedarea-swatch-medium');
             $swatch.removeClass('leaflet-suggestedarea-swatch-low');
 
-            if (statname == 'id') {
-                $swatch.text(score);
-            }
-            else {
-                switch (score) {
-                    case 'hi':
-                        $swatch.text('High').addClass('leaflet-suggestedarea-swatch-high');
-                        break;
-                    case 'md':
-                        $swatch.text('Med').addClass('leaflet-suggestedarea-swatch-medium');
-                        break;
-                    case 'lo':
-                        $swatch.text('Low').addClass('leaflet-suggestedarea-swatch-low');
-                        break;
-                }
+            switch (score) {
+                case 'hi':
+                    $swatch.text('High').addClass('leaflet-suggestedarea-swatch-high');
+                    break;
+                case 'md':
+                    $swatch.text('Med').addClass('leaflet-suggestedarea-swatch-medium');
+                    break;
+                case 'lo':
+                    $swatch.text('Low').addClass('leaflet-suggestedarea-swatch-low');
+                    break;
             }
 
         });

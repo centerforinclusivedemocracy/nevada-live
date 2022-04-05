@@ -1,0 +1,73 @@
+osm_id,code,fclass,name,lon,lat
+357554566,2082,school,Carlin Combined School,-116.11008,40.71714
+357555217,2082,school,Owyhee Elementary School,-116.09704,41.94268
+357555222,2082,school,Carlin Elementary School,-116.10957,40.7165
+357565218,2082,school,Petan Ranch School,-116.2042,41.7339
+357566006,2082,school,Great Basin College Carlin Satellite Center,-116.10389,40.71389
+357566031,2082,school,Great Basin College Owyhee Satellite Center,-116.0982,41.94372
+5800274759,2402,motel,,-116.10573,40.72147
+7717361478,2501,supermarket,,-116.12673,41.99005
+357552636,2082,school,Elko High School,-115.76035,40.83937
+357552642,2082,school,Elko Junior High School,-115.76257,40.83992
+357552647,2082,school,Northside Kindergarten Center,-115.77785,40.83687
+357553914,2082,school,Northside Elementary School,-115.77757,40.83687
+357553918,2082,school,Southside Elementary School,-115.75177,40.83078
+357555175,2082,school,Wells Elementary School,-114.97005,41.10909
+357555179,2082,school,Ruby Valley Elementary School,-114.96727,41.10909
+357555230,2082,school,Jarbidge Elementary School,-115.4309,41.87629
+357555233,2082,school,West Wendover Middle School,-114.08112,40.73294
+357555238,2082,school,Montello Elementary School,-114.19674,41.26238
+357557007,2082,school,Mound Valley Elementary School,-115.66506,40.42854
+357557017,2082,school,O'Neil Elementary School,-115.21589,41.56852
+357557030,2082,school,Elko Grammar School Number Two,-115.76701,40.83742
+357557070,2082,school,Wells Combined School,-114.97032,41.10826
+357565211,2082,school,Spring Creek High School,-115.6427,40.77477
+357565214,2082,school,West Wendover High School,-114.08359,40.73267
+357566036,2082,school,Great Basin College Wells Satellite Center,-114.97,41.10806
+357566040,2082,school,Great Basin College Wendover Satellite Center,-114.08365,40.73197
+357566431,2082,school,Ruby Mountain Christian School,-115.6209,40.7326
+357566637,2082,school,Elko Early Childhood Center,-115.7598,40.8388
+3011255800,2303,cafe,Cowboy Joe,-115.76282,40.83256
+3011310369,2501,supermarket,Joe's Market,-115.75605,40.82823
+3030179765,2501,supermarket,La Unica,-115.75674,40.8288
+3121629776,2405,hostel,,-114.10486,41.09947
+6629196451,2082,school,Ruby Valley Rural School,-115.32556,40.53829
+357561911,2005,post_office,White Rock Post Office,-116.18621,41.74185
+357562007,2005,post_office,Excelsior Post Office,-116.16898,41.70435
+357562316,2005,post_office,Carlin Post Office,-116.10841,40.71186
+357562966,2005,post_office,Tuscarora Post Office,-116.22262,41.31446
+357563873,2005,post_office,Owyhee Post Office,-116.09887,41.94767
+357564102,2005,post_office,Mountain City Post Office,-115.96537,41.83824
+6363466670,2005,post_office,,-116.10499,40.71901
+6363466671,2007,library,Carlin Library,-116.11637,40.71783
+6638660109,2008,town_hall,Municipal Center,-116.09919,41.9461
+357561447,2005,post_office,Sherman Post Office,-115.66366,40.13132
+357561492,2005,post_office,Island Mountain Post Office,-115.72397,41.73379
+357561495,2005,post_office,O'Neil Post Office,-115.01588,41.78491
+357561801,2005,post_office,Jiggs Post Office,-115.66534,40.42576
+357561995,2005,post_office,Bueasta Post Office,-115.67592,41.93101
+357562308,2005,post_office,Bayard Post Office,-115.51007,41.69796
+357562312,2005,post_office,Charleston Post Office,-115.51063,41.67074
+357562336,2005,post_office,Tobar Post Office,-114.89032,40.89631
+357562346,2005,post_office,Lurline Post Office,-115.20644,40.71631
+357562356,2005,post_office,Silver Zone Post Office,-114.35363,40.91993
+357562461,2005,post_office,Montello Post Office,-114.19679,41.26047
+357563170,2005,post_office,Halleck Post Office,-115.45302,40.95089
+357563351,2005,post_office,Lee Post Office,-115.60756,40.56826
+357563555,2005,post_office,Deeth Post Office,-115.27253,41.06541
+357563616,2005,post_office,Elko Post Office,-115.764,40.83011
+357563849,2005,post_office,Jackpot Post Office,-114.67083,41.97933
+357563953,2005,post_office,Lamoille Community Post Office,-115.47777,40.72796
+357564030,2005,post_office,Wells City Hall,-114.96393,41.11131
+357564033,2005,post_office,Toano Post Office,-114.42308,41.13159
+357564220,2005,post_office,JARBIDGE —  Post Office,-115.43038,41.87493
+366087972,2008,town_hall,Wells City Hall,-114.96727,41.10826
+1784326245,2008,town_hall,Ruby Valley Hall,-115.3306,40.53479
+1784326246,2002,fire_station,Ruby Valley South Fire Station,-115.33139,40.53241
+2298721401,2002,fire_station,Spring Creek Fire Department,-115.62179,40.7376
+2521678510,2001,police,West Wendover Police Department,-114.07256,40.74267
+2548867063,2002,fire_station,,-114.13524,41.10982
+3011255801,2009,courthouse,Elko County Courthouse,-115.76294,40.83342
+5825535432,2002,fire_station,Tecoma Township Volunteer Fire Department,-114.19376,41.26275
+8833384048,2008,town_hall,Elko City Hall,-115.75272,40.844
+8836820077,2005,post_office,Goin' Postal,-115.74881,40.84454

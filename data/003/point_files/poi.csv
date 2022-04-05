@@ -1,0 +1,573 @@
+osm_id,code,fclass,name,lon,lat
+301034987,2082,school,Spring Mtn Divide Trl,-115.58415,36.31838
+304595383,2501,supermarket,Trader Joe's,-115.08131,36.06961
+307444858,2501,supermarket,Smith's,-115.20942,36.11807
+357552576,2082,school,Sunset High School,-115.19406,36.15666
+357555123,2082,school,Homebound Special School,-115.10139,36.14469
+357555126,2082,school,Adult Education Programs School,-115.11333,36.14861
+357555186,2082,school,Indian Springs Middle School,-115.67675,36.57407
+357555194,2082,school,Indian Springs Elementary School,-115.67597,36.57491
+357555254,2082,school,Laughlin Elementary School,-114.57302,35.16805
+357555400,2082,school,Biltmore Special School,-115.13694,36.18
+357555763,2082,school,Captain Kidds Sixth Grade,-115.09055,36.09136
+357555787,2082,school,Divine Providence Variety Day Home,-115.14556,36.1833
+357555798,2082,school,Litl Scholar School,-115.17306,36.15858
+357555804,2082,school,First Christian Church Child Development Center,-115.13788,36.17456
+357555812,2082,school,Christian Center Schools,-114.83252,35.97829
+357555816,2082,school,Lake Mead Christian Academy,-114.83263,35.97883
+357555821,2082,school,Mother Goose School,-115.225,36.14136
+357555825,2082,school,Montessori Academy of Southern Nevada,-115.22556,36.15886
+357555829,2082,school,Trinity Christian Schools,-115.13944,36.14803
+357555856,2082,school,Vineyard Christian Academy,-115.19267,36.15915
+357555868,2082,school,Clark County Christian School,-115.11056,36.16969
+357555881,2082,school,Litl Scholar School,-115.09972,36.12914
+357555888,2082,school,Echoes Christian Academy,-115.12389,36.18136
+357555891,2082,school,Carousel Christian Child Development Center,-115.12472,36.17775
+357556013,2082,school,New Horizons Center for Learning,-115.21361,36.14469
+357556022,2082,school,First Presbyterian Church Pre-School and Day Care Center,-115.16206,36.15764
+357556028,2082,school,Maranatha Academy of Las Vegas,-115.11056,36.21719
+357556136,2082,school,Cimarron-Memorial High School,-115.25167,36.19913
+357556174,2082,school,Edythe and Lloyd Katz Elementary School,-115.24667,36.19247
+357556178,2082,school,Martha P King Elementary School,-114.8324,35.97816
+357556181,2082,school,Laughlin High School,-114.57302,35.16778
+357556184,2082,school,Ernest May Elementary School,-115.23501,36.25386
+357556354,2082,school,,-115.11417,36.22414
+357556364,2082,school,Paul East Culley Elementary School,-115.22198,36.18364
+357556485,2082,school,Fay Herron Elementary School,-115.10278,36.20414
+357556488,2082,school,Halle Hewetson Elementary School,-115.1225,36.17608
+357556564,2082,school,Lincoln Elementary School,-115.11222,36.21441
+357556596,2082,school,Madison Sixth Grade Center School,-115.15639,36.18275
+357556758,2082,school,Bertha Ronzone Elementary School,-115.21917,36.19691
+357556798,2082,school,Saint Joseph Elementary School,-115.13285,36.16212
+357556874,2082,school,Ruby S Thomas Elementary School,-115.13083,36.12553
+357556892,2082,school,Twin Lakes Elementary School,-115.18619,36.18427
+357556957,2082,school,Whitney Elementary School,-115.04639,36.09942
+357557057,2082,school,Washington Continuation School,-115.13278,36.19497
+357557146,2082,school,Helen C Cannon Middle School,-115.11561,36.08342
+357557219,2082,school,R Guild Gray Elementary School,-115.235,36.13747
+357557228,2082,school,David M Cox Elementary School,-115.19389,36.15969
+357557234,2082,school,M J Christensen Elementary School,-115.1925,36.18164
+357557237,2082,school,John R Beatty Elementary School,-115.22445,36.20358
+357557254,2082,school,Clyde C Cox Elementary School,-115.09306,36.22719
+357557280,2082,school,J M Ullom Elementary School,-115.06675,36.10393
+357557314,2082,school,Ann Lynch Elementary School,-115.06583,36.19664
+357557321,2082,school,Gwendolyn Wooley Elementary School,-115.09539,36.23133
+357557354,2082,school,Nate Mack Elementary School,-115.10083,36.05859
+357557364,2082,school,Harriet Treem Elementary School,-115.02555,36.07692
+357557395,2082,school,Estes M McDoniel Elementary School,-115.09166,36.05942
+357557398,2082,school,James B McMillan Elementary School,-115.24788,36.19287
+357557436,2082,school,Lilly and Wing Fong Elementary School,-115.22695,36.18025
+357557455,2082,school,Dorothy Eisenberg Elementary School,-115.26112,36.24247
+357560065,2082,school,Community College of Southern Nevada Henderson Campus,-114.96528,36.00793
+357564858,2110,hospital,Healthsouth Rehabilitation Hospital,-115.19139,36.15803
+357564873,2110,hospital,Kindred Hospital Las Vegas - Sahara,-115.21184,36.14572
+357565046,2013,nursing_home,Cheyenne Care Center,-115.10836,36.21901
+357565051,2013,nursing_home,Delmar Gardens of Green Valley,-115.0961,36.0331
+357565054,2013,nursing_home,Horizon Health and Rehabilitation Center,-115.16264,36.1632
+357565058,2013,nursing_home,El Jen Convalescent Hospital,-115.22016,36.22761
+357565062,2013,nursing_home,Saint Joseph Transitional Rehabilitation Center,-115.16935,36.15782
+357565076,2013,nursing_home,Gaye Haven Intermediate Care Facility,-115.05794,36.19285
+357565094,2013,nursing_home,Lake Mead Health and Rehabilitation Center,-114.96228,36.06156
+357565117,2013,nursing_home,Life Care Center of South Las Vegas,-115.12044,36.10675
+357565128,2013,nursing_home,Las Vegas Post Acute & Rehabilitation,-115.13637,36.13846
+357565136,2013,nursing_home,Mountain View Care Center,-114.82797,35.96844
+357565145,2013,nursing_home,North Las Vegas Care Center,-115.10481,36.21682
+357565149,2013,nursing_home,Silver Hills Health Care Center,-115.25979,36.22327
+357565152,2013,nursing_home,Silver Ridge Healthcare Center,-115.23529,36.15771
+357565157,2013,nursing_home,Marquis Plaza Regency,-115.22769,36.21647
+357565161,2013,nursing_home,TLC Care Center,-115.04983,36.05749
+357565164,2013,nursing_home,Torrey Pines Rehabilitation,-115.23367,36.15104
+357565479,2082,school,Berkeley L Bunker Elementary School,-115.23222,36.21111
+357565499,2082,school,Steve Cozine Elementary School,-115.17611,36.25667
+357565540,2082,school,Theron H and Naomi D Goynes Elementary School,-115.185,36.28167
+357565556,2082,school,Indian Springs High School,-115.6766,36.57438
+357565662,2082,school,Sheila R Tarr Elementary School,-115.30167,36.23028
+357565675,2082,school,Jim Thorpe Elementary School,-115.05583,36.07889
+357565715,2082,school,Ralph Cadwallader Middle School,-115.26383,36.28905
+357565826,2082,school,Community College South Henderson High School,-114.96529,36.00826
+357565830,2082,school,Community College West Charleston High School,-115.23306,36.15806
+357565888,2082,school,Southwest Behavior Program,-115.23361,36.1125
+357565892,2082,school,Cowan Behavior Junior Senior High School,-115.05639,36.08389
+357565901,2082,school,Petersen Center Behavior Program,-115.32194,36.27778
+357565909,2082,school,South Continuation School,-115.06908,36.08162
+357565939,2082,school,Miley Achievement Center,-115.11472,36.085
+357565946,2082,school,Explore Knowledge Academy,-115.09222,36.10194
+357565949,2082,school,Odyssey Charter School,-115.22583,36.14694
+357565951,2082,school,Keystone Academy,-115.62361,35.80889
+357565958,2082,school,Community College of Southern Nevada A D Guy Center,-115.16,36.17972
+357565961,2082,school,Community College of Southern Nevada Boulder City Center,-114.83099,35.97735
+357565964,2084,college,College of Southern Nevada Green Valley Center,-115.05306,36.05667
+357565982,2082,school,Community College of Southern Nevada Nellis Air Force Base Center,-115.04694,36.24167
+357565989,2084,college,Community College of Southern Nevada Summerlin Center,-115.33402,36.17199
+357565991,2082,school,Community College of Southern Nevada Western Center,-115.20521,36.17603
+357566062,2082,school,Academia La Gran Comision,-115.12889,36.15194
+357566064,2082,school,Academy for Learning,-115.13944,36.14417
+357566071,2082,school,American Heritage Academy,-115.09167,36.07806
+357566074,2082,school,Back to Basics Preschool and Day Care,-115.08583,36.18833
+357566077,2082,school,Black Mountain Christian School,-115.0302,36.0268
+357566081,2082,school,Calvary Chapel Christian School,-115.24833,36.08139
+357566084,2082,school,Calvary Christian Learning Academy,-115.2334,36.21224
+357566088,2082,school,Candil Hall Early Childhood Education,-115.24152,36.25836
+357566094,2082,school,Centennial Academy,-115.29444,36.26694
+357566096,2082,school,Challenger School Lone Mountain,-115.28918,36.23322
+357566100,2082,school,Challenger School Silverado Campus,-115.12875,36.01961
+357566103,2082,school,Childrens Choice Kindergarten,-115.08404,36.13644
+357566109,2082,school,Childrens Choice Kindergarten,-115.17699,36.13918
+357566113,2082,school,Childrens Choice Kindergarten,-115.0425,36.05639
+357566116,2082,school,Childrens Choice Kindergarten,-115.1899,36.1957
+357566119,2082,school,Childrens World Learning Center,-115.09,36.02861
+357566122,2082,school,Childrens World Learning Center,-115.31965,36.13582
+357566125,2082,school,Childrens World Learning Center,-115.28235,36.14181
+357566128,2082,school,Childrens World Learning Center,-115.21694,36.12583
+357566131,2082,school,Childrens World Learning Center,-115.26,36.22528
+357566134,2082,school,Childrens World Learning Center,-115.25028,36.21278
+357566137,2082,school,Christ the Servant Lutheran Church Kindergarten,-115.09972,36.02739
+357566143,2082,school,Corner Stone Christian Academy,-115.22167,36.14
+357566147,2082,school,Desert Torah Academy,-115.19972,36.15778
+357566162,2082,school,Faith Lutheran Academy,-115.32557,36.14133
+357566167,2082,school,First Good Shepard Lutheran School,-115.13694,36.16306
+357566173,2082,school,Gateway Christian Academy,-115.08639,36.19389
+357566176,2082,school,Grace Christian Academy,-114.835,35.97694
+357566180,2082,school,Green Valley Christian School,-115.0676,36.0685
+357566184,2082,school,Green Valley Lutheran Kindergarten,-115.0648,36.033
+357566187,2082,school,Griffith United Methodist Day School,-115.12833,36.15222
+357566190,2082,school,Happy Days Kindergarten,-115.194,36.1465
+357566194,2082,school,Hillcrest Academy,-115.0915,35.9897
+357566197,2082,school,House of Knowledge Christian Academy,-115.1563,36.1943
+357566199,2082,school,Imagination Plus Child Care Center,-115.16251,36.16595
+357566205,2082,school,Imprints Day School,-115.13236,36.04132
+357566209,2082,school,International Christian Academy,-115.26942,36.17415
+357566214,2082,school,Kiddie Academy,-115.11009,36.00019
+357566217,2082,school,Kids Campus Learning Center,-115.16249,36.2302
+357566220,2082,school,Kids Campus Learning Center,-115.30113,36.09984
+357566227,2082,school,Kids R Kids Quality Learning Center,-115.22467,36.09786
+357566230,2082,school,Kids R Kids Quality Learning Center,-115.0516,36.0783
+357566234,2082,school,Kids R Kids Quality Learning Center,-115.14159,36.02004
+357566237,2082,school,Kids Turf Academy,-115.26255,36.11051
+357566242,2082,school,Kids Turf Academy II,-115.134,36.0133
+357566245,2082,school,Kinder Prep Academy,-115.24297,36.26506
+357566249,2083,kindergarten,KinderCare,-115.23337,36.11523
+357566252,2083,kindergarten,La Petite Academy,-115.27918,36.19873
+357566255,2083,kindergarten,La Petite Academy,-115.10687,36.05002
+357566259,2083,kindergarten,La Petite Academy,-115.1807,36.24033
+357566262,2083,kindergarten,La Petite Academy,-115.0512,36.0561
+357566265,2082,school,Lamb of God Lutheran School,-115.2226,36.27356
+357566268,2082,school,Las Vegas Junior Academy,-115.2249,36.1513
+357566272,2082,school,Liberty Baptist Academy,-115.23653,36.19529
+357566275,2082,school,Lit'l Scholar Rainbow,-115.24388,36.15022
+357566282,2082,school,McCarran Child Development Center,-115.12854,36.08691
+357566288,2082,school,Merryhill School at Peccole Ranch,-115.30859,36.17021
+357566297,2082,school,Merryhill School at Spanish Trail,-115.2791,36.0971
+357566303,2082,school,Midbar Kodesh Temple Early Childhood Center,-115.06946,36.0202
+357566309,2082,school,Montessori Childrens World,-115.0976,36.0714
+357566313,2082,school,Mount Olive Lutheran School,-115.0926,36.11743
+357566319,2082,school,Mountain View Lutheran School,-115.30226,36.21918
+357566322,2082,school,New Horizons Academy,-115.2391,36.15896
+357566338,2082,school,Paradise Christian Academy,-115.116,36.1254
+357566346,2082,school,Shadow Hills Baptist Church,-115.2651,36.18817
+357566353,2082,school,Southern Highlands Preparatory School,-115.18663,35.98023
+357566356,2082,school,Spring Mountain Treatment Center,-115.2463,36.1264
+357566359,2082,school,Spring Valley Christian Academy,-115.2544,36.105
+357566363,2082,school,Sunset Montessori Childrens World,-115.0982,36.0714
+357566373,2082,school,Temple Beth Sholom Childhood Center,-115.32589,36.13378
+357566379,2082,school,TOP Christian Learning Academy,-115.2593,36.2313
+357566383,2082,school,Tree of Life Christian School,-115.23049,36.2175
+357566386,2082,school,Trinity United Methodist,-115.2256,36.1581
+357566389,2082,school,University Baptist Academy,-115.1332,36.1096
+357566393,2082,school,Variety Early Learning Center,-115.147,36.1818
+357566395,2082,school,Vegas Valley Christian School,-115.07423,36.08899
+357566402,2082,school,Warren Walker Upper School,-115.0902,35.9869
+357566405,2082,school,Wassell Academy,-115.2095,36.1372
+357566408,2082,school,Word of Life Christian Academy,-115.2605,36.2242
+357566570,2082,school,Odyssey Charter Schools,-115.22546,36.14466
+357566628,2082,school,Academy for Individualized Study,-115.11362,36.14887
+357566631,2082,school,Child Haven,-115.10073,36.17636
+357568343,2082,school,Christ Lutheran Childrens Center and Preschool,-115.234,36.17433
+357568350,2082,school,First Good Sheperd Luthern School,-115.1341,36.1629
+357568362,2082,school,Harbor Christian School,-115.0839,36.141
+357568368,2082,school,Jewish Community Day School of Las Vegas,-115.1126,36.1253
+357568482,2110,hospital,Sunrise Children's Hospital,-115.1359,36.13193
+366088018,2012,community_centre,Paradise Park Community Center,-115.11067,36.10225
+366088027,2012,community_centre,Baker Park Community Center,-115.1401,36.1472
+366088032,2012,community_centre,Winchester Community Center,-115.1085,36.1328
+366088041,2012,community_centre,Stupak Community Center,-115.16006,36.14731
+366088113,2012,community_centre,Ko Knudson Community Center,-115.11494,36.14564
+366088117,2012,community_centre,Lowden Community Center,-115.1417,36.129
+366638000,2303,cafe,reJAVAnate Coffee Lounge,-115.10356,36.11662
+534809949,2501,supermarket,Albertsons,-115.27932,36.30053
+561306344,2303,cafe,Starbucks,-115.08588,36.02964
+561309400,2303,cafe,Brooklyn Bagels,-115.08585,36.02936
+814618160,2303,cafe,Checking,-115.14601,36.16105
+1262424617,2303,cafe,,-115.20635,35.99492
+1363200311,2303,cafe,Starbucks,-115.16885,36.12719
+1400044781,2501,supermarket,,-115.6256,35.80973
+1617975595,2501,supermarket,,-115.38767,35.60761
+1619006636,2303,cafe,Starbucks,-115.38758,35.61201
+1671457064,2083,kindergarten,Children's Choice Learning Center,-115.04288,36.05703
+1699969270,2501,supermarket,Smith's,-115.24181,36.04233
+1699969408,2501,supermarket,Albertsons,-115.24137,36.05474
+1700027497,2303,cafe,Starbucks,-115.2429,36.07252
+1720351296,2303,cafe,Starbucks,-115.15477,36.116
+1721875458,2501,supermarket,Albertsons,-115.25024,36.23824
+1733177252,2402,motel,Stay suites of America,-115.05961,36.23715
+1737961743,2303,cafe,Starbucks,-115.17448,36.10261
+1777734168,2303,cafe,Coo Coo's Gourmet Coffee Cafe,-114.98549,36.0332
+1835694802,2303,cafe,Coffee Cup,-114.83807,35.97772
+1835697960,2303,cafe,Starbucks,-114.84548,35.97471
+1881275470,2303,cafe,Our Families Country Cafe,-115.24401,35.99696
+1941808281,2082,school,CLAY ARTS VEGAS,-115.15365,36.15293
+1949403877,2303,cafe,Coco's,-115.16524,36.10042
+2014508630,2504,mall,,-115.20674,36.16625
+2021840385,2501,supermarket,Smith's,-115.28568,36.29067
+2021872955,2303,cafe,Starbucks,-115.26885,36.27421
+2142151397,2303,cafe,The Beat,-115.13962,36.16896
+2151270098,2082,school,Foothills Montessori School,-115.04816,36.01387
+2169479541,2303,cafe,Coffee Bean & Tea Leaf,-115.17753,36.06818
+2417971865,2110,hospital,Cosmetic Surgery of Las Vegas,-115.26714,36.14407
+2440634447,2501,supermarket,Ranis World Foods,-115.20111,36.14369
+2440673835,2303,cafe,Café Berlin,-115.20721,36.07207
+2574819182,2303,cafe,Starbucks,-115.0916,36.11492
+2574819230,2501,supermarket,Albertsons,-115.06698,36.13849
+2574819240,2303,cafe,Starbucks,-115.06596,36.14306
+2574819245,2501,supermarket,Smith's,-115.06707,36.14293
+2574819339,2501,supermarket,Albertsons,-115.04538,36.1585
+2590259724,2303,cafe,Starbucks,-115.32466,36.21866
+2590259751,2501,supermarket,Albertsons,-115.27603,36.21995
+2600834873,2303,cafe,Starbucks,-115.04521,36.15846
+2612597269,2303,cafe,Starbucks,-115.11916,36.02606
+2612603442,2501,supermarket,Trader Joe's,-115.10926,36.00089
+2624945142,2501,supermarket,Trader Joe's,-115.2578,36.18061
+2746582645,2303,cafe,Starbucks,-115.11818,36.11522
+2746582837,2501,supermarket,Marketon,-115.0932,36.1305
+2759337349,2303,cafe,Starbucks,-115.22434,36.06273
+2762201854,2501,supermarket,Sprouts Farmers Market,-115.24128,36.11535
+2763012186,2303,cafe,Starbucks,-115.05244,36.10072
+2799676623,2501,supermarket,El Super,-115.0821,36.15795
+2810241754,2013,nursing_home,Premier Health & Rehabilitation Center,-115.1349,36.13619
+2857344200,2303,cafe,Starbucks,-115.11809,36.13021
+2927290610,2303,cafe,Starbucks,-115.2422,36.05681
+2983734525,2303,cafe,Winchell's,-115.07409,36.10053
+3078103489,2501,supermarket,Albertsons,-115.12566,36.157
+3110240556,2501,supermarket,Sprouts Farmers Market,-115.31196,36.14594
+3130613116,2082,school,Merryhill School @ Peccole Ranch,-115.31344,36.16918
+3139121317,2082,school,Yeshiva Day School,-115.29324,36.19919
+3163901230,2303,cafe,Starbucks,-115.14671,36.08046
+3163901268,2303,cafe,The Coffee Bean,-115.14703,36.08131
+3190959336,2501,supermarket,Sprouts Farmers Market,-115.10211,36.09878
+3192216320,2501,supermarket,Food 4 Less,-115.10454,36.1164
+3192405691,2501,supermarket,Smith's,-115.08995,36.1164
+3222882891,2303,cafe,,-115.14051,36.16901
+3271196827,2303,cafe,Starbucks,-115.15142,36.08472
+3329751018,2501,supermarket,Maria's Market,-115.06489,36.12926
+3454284154,2082,school,Doral Academy,-115.28954,35.99717
+3474537656,2501,supermarket,Albertsons,-115.05459,36.10168
+3613120094,2501,supermarket,Whole Foods Market,-115.17425,36.06762
+3654871781,2501,supermarket,Smith's,-115.08403,36.02764
+3654916892,2012,community_centre,Legacy Courtyard Clubhouse,-115.08884,36.03251
+3725333492,2303,cafe,Port of Subs,-115.22433,36.06288
+3758005225,2303,cafe,Baga Hookah,-115.17229,36.10664
+3796621980,2501,supermarket,Seafood City Supermarket,-115.13566,36.11827
+3796637536,2501,supermarket,Albertsons,-115.1111,36.12826
+3802875087,2303,cafe,Dutch Bros. Coffee,-115.112,36.10027
+3802984972,2501,supermarket,Cardenas Super Market,-115.07575,36.10095
+3802984991,2501,supermarket,Los Compadres Meat Market,-115.07477,36.09986
+3822199965,2303,cafe,,-115.06602,36.14178
+3834980734,2501,supermarket,Marketon,-115.06393,36.17614
+3835158035,2501,supermarket,Smith's,-115.0604,36.16757
+3864331937,2303,cafe,Coffee Bean & Tea Leaf,-115.13848,36.08612
+3864331943,2303,cafe,Starbucks,-115.13511,36.08614
+3864331949,2303,cafe,Starbucks,-115.13751,36.0862
+4015588723,2303,cafe,Starbucks,-115.1718,36.11737
+4017094155,2303,cafe,Starbucks,-115.171,36.11437
+4017094160,2504,mall,The Shoppes at Mandalay Place,-115.17607,36.09384
+4017094163,2303,cafe,Starbucks,-115.17592,36.09302
+4017094167,2303,cafe,Starbucks,-115.17614,36.09835
+4017094172,2303,cafe,Starbucks,-115.17705,36.09111
+4017094173,2303,cafe,Starbucks,-115.17146,36.09942
+4020584216,2303,cafe,Starbucks,-115.17353,36.10634
+4020584231,2303,cafe,Starbucks,-115.17359,36.1025
+4052483509,2501,supermarket,Dollar General Market,-115.13757,36.13655
+4052483525,2110,hospital,Desert Parkway Behavioral Healthcare Hospital,-115.13825,36.13049
+4052505255,2501,supermarket,Smith's,-115.13496,36.14336
+4053942850,2110,hospital,UMC Trauma Center,-115.16821,36.16125
+4069836504,2303,cafe,Starbucks,-115.18711,36.11846
+4121993849,2402,motel,Golden West Motel,-115.15038,36.15475
+4122949640,2402,motel,Holiday Royale Apartment Suites,-115.15348,36.10649
+4122949668,2402,motel,Americas Best Value Inn Downtown Las Vegas,-115.13958,36.18153
+4123002929,2402,motel,Parkview Inn,-115.13457,36.18188
+4123002930,2402,motel,Town Lodge Motel,-115.13756,36.16993
+4123002931,2402,motel,Vista Motel,-115.13727,36.16974
+4123002932,2402,motel,Alpine Motel,-115.13539,36.16916
+4123002933,2402,motel,Alicia Motel,-115.13218,36.16609
+4123002934,2402,motel,The Gables Motel,-115.13118,36.16543
+4123002935,2402,motel,Peter Pan Motel,-115.13089,36.16577
+4144854889,2303,cafe,Grandma Daisy's,-114.8381,35.97757
+4179884549,2501,supermarket,,-115.06991,36.18897
+4179884649,2501,supermarket,Cardenas Market,-115.07914,36.17219
+4197803693,2501,supermarket,Laos Market,-115.13684,36.17621
+4200422294,2501,supermarket,Sieu Thi Thuan Phat Superstore,-115.20662,36.12502
+4200473689,2501,supermarket,99 Ranch Market,-115.19527,36.12546
+4200473989,2501,supermarket,SF Supermarket,-115.21069,36.12566
+4200473990,2501,supermarket,Bangkok Market,-115.2072,36.11453
+4276033908,2402,motel,Super 8 Las Vegas Nellis AFB Area,-115.05359,36.24154
+4308164738,2303,cafe,The Coffee Bean & Tea Leaf,-115.13704,36.10659
+4393079890,2501,supermarket,Greenland supermarket,-115.24172,36.1263
+4419260242,2303,cafe,Starbucks,-115.13862,36.10629
+4448942296,2303,cafe,Starbucks,-115.29697,36.14409
+4450379296,2303,cafe,Starbucks,-115.3196,36.15938
+4453903190,2501,supermarket,Trader Joe's,-115.33528,36.14558
+4479290789,2501,supermarket,Albertsons,-115.29581,36.14333
+4564542918,2014,arts_centre,Las Vegas Art Museum,-115.30575,36.14487
+4610714684,2303,cafe,Greens and Proteins,-115.24346,36.07263
+4630729177,2012,community_centre,Bob Price Recreational Center,-115.04518,36.19695
+4630855937,2012,community_centre,Hollywood Recreation Center,-115.02569,36.15249
+4632377217,2501,supermarket,WinCo Foods,-115.04381,36.03368
+4668653107,2303,cafe,Starbucks,-115.17064,36.11035
+4668653128,2303,cafe,Cafe Belle Madeleine,-115.17094,36.11236
+4668653129,2303,cafe,JJ's Boulangerie,-115.17095,36.11265
+4668671252,2303,cafe,Palio,-115.17709,36.11283
+4668688398,2303,cafe,Starbucks,-115.17227,36.11643
+4668742162,2303,cafe,Cafe Pan,-115.16863,36.12116
+4668765760,2303,cafe,Starbucks,-115.16987,36.12744
+4669431058,2303,cafe,Starbucks,-115.17586,36.09559
+4669476606,2303,cafe,Sea Breeze Cafe,-115.17508,36.09169
+4727474428,2504,mall,,-115.13839,36.16764
+4727921407,2303,cafe,Starbucks,-115.20199,36.11504
+4742179561,2303,cafe,The Coffee Bean & Tea Leaf,-115.08619,36.02176
+4810807528,2303,cafe,Starbucks,-115.17343,36.1143
+4831269322,2303,cafe,Polaris Street Café,-115.18594,36.12352
+4950064121,2303,cafe,Tropical Cafe,-115.15309,36.10731
+4986098871,2084,college,Arizona College - Las Vegas,-115.17134,36.14559
+5105129021,2012,community_centre,Dig This Las Vegas,-115.17974,36.1356
+5255307447,2303,cafe,Starbucks,-115.17092,36.12363
+5286980217,2303,cafe,Starbucks,-115.13323,36.28878
+5312460064,2303,cafe,Sunrise Coffee,-115.10704,36.07194
+5329680014,2303,cafe,Starbucks,-115.3061,36.1933
+5329686488,2303,cafe,Starbucks,-115.33411,36.1559
+5329692669,2303,cafe,Starbucks,-115.33472,36.14857
+5330059363,2303,cafe,Starbucks,-115.28743,36.29127
+5359014861,2303,cafe,The Madhouse Coffee,-115.11892,36.02799
+5390681193,2303,cafe,The Coffee Bean & Tea Leaf,-115.33172,36.16114
+5393724345,2303,cafe,Starbucks,-115.05054,36.23427
+5421566523,2303,cafe,Starbucks,-115.33219,36.15587
+5450535875,2501,supermarket,,-115.16441,36.13143
+5512696119,2303,cafe,Starbucks,-115.15442,36.14393
+5590708424,2303,cafe,babystacks cafe,-115.25918,36.20626
+5600708035,2303,cafe,Aware Coffee and Tea Lounge,-115.2561,36.26258
+5732917824,2501,supermarket,Sprouts Farmers Market,-115.04815,36.05673
+5732923525,2303,cafe,Allegro,-115.08266,36.02351
+5741952023,2303,cafe,Starbucks,-115.13612,36.08273
+5741952821,2303,cafe,Starbucks,-115.13573,36.08064
+5741993222,2303,cafe,Starbucks,-115.13768,36.08145
+5792848155,2303,cafe,Starbucks,-114.06608,36.81573
+5894186985,2501,supermarket,Smith's,-115.17428,36.16139
+5940445286,2303,cafe,Starbucks,-115.20527,36.1587
+5959521702,2501,supermarket,Sprouts Farmers Market,-115.24524,36.05449
+6004025250,2501,supermarket,Las Vegas Pain Relief Center,-115.28897,36.11646
+6025803177,2303,cafe,Starbucks,-115.14482,36.17087
+6025803178,2303,cafe,Starbucks,-115.1461,36.16938
+6059435126,2082,school,,-115.09062,36.26092
+6091215763,2303,cafe,Starbucks,-115.17205,36.1189
+6188889685,2303,cafe,Solo qui,-115.25624,36.19717
+6233007085,2303,cafe,Starbucks,-115.29679,36.0992
+6275993985,2012,community_centre,NuWu Cannabis market,-115.13917,36.18408
+6275993986,2012,community_centre,Essence cannabis dispensary,-115.15636,36.14486
+6318736289,2303,cafe,Starbucks,-115.11669,35.94166
+6340697786,2303,cafe,Starbucks,-115.17536,36.10512
+6434613285,2501,supermarket,,-115.08114,36.16691
+6536129082,2012,community_centre,House Community,-115.27987,36.07691
+6620386931,2501,supermarket,Smith's,-115.31316,36.10157
+6814386348,2083,kindergarten,Childtime,-115.11781,36.04436
+6899938486,2303,cafe,Starbucks,-115.27698,36.1317
+6981288585,2303,cafe,Makers & Finders,-115.15384,36.15789
+7021329810,2303,cafe,Starbucks,-115.35079,36.16078
+7021632588,2303,cafe,MTO Cafe,-115.33314,36.15093
+7096268230,2303,cafe,Vesta Coffee Roasters,-115.15254,36.15814
+7096360284,2303,cafe,Mothership,-115.13384,36.16701
+7096383585,2402,motel,Travelers Motel,-115.13341,36.16634
+7124418397,2303,cafe,Pa’ina Cafe,-115.24231,36.12686
+7212526086,2303,cafe,nittaya secret kitchen,-115.28248,36.1992
+7314352285,2405,hostel,Bo's Place,-115.11647,36.11586
+7616916081,2303,cafe,Starbucks,-115.09094,36.02112
+7640946462,2303,cafe,Starbucks,-115.30647,36.31474
+7640946465,2501,supermarket,Smith's,-115.30804,36.31638
+7791849712,2303,cafe,Boulder City Co. Store,-114.83749,35.97757
+8174581560,2303,cafe,Sweet Boba,-115.20979,36.11492
+8185166617,2501,supermarket,Smart & Final,-115.27615,36.14274
+8188081017,2303,cafe,peet’s coffee Sahara,-115.31196,36.14471
+8188571717,2303,cafe,Starbucks,-115.27806,36.14362
+8199680779,2303,cafe,Omelette Cafe,-115.30746,36.31476
+8214795517,2501,supermarket,Smith’s Food & Drug,-115.28345,36.20175
+8241550206,2303,cafe,Guy Savoy,-115.17455,36.11642
+8402470017,2303,cafe,Mothership Coffee Roasters,-115.08172,36.06967
+8402522519,2303,cafe,Bad Owl Coffee Roasters,-115.1439,36.16733
+8459622715,2083,kindergarten,Merryhill Preschool,-115.26102,36.30458
+8549836650,2501,supermarket,Smith's Horizon Marketplace,-115.1024,35.99951
+8568261448,2303,cafe,Starbucks,-115.17321,36.16162
+8573137298,2303,cafe,Chill Haus,-115.28705,36.27804
+8573137299,2303,cafe,Waffles Cafe,-115.28695,36.27803
+8747427006,2501,supermarket,El Super,-115.20521,36.14547
+8747450443,2303,cafe,Meepleville,-115.20585,36.14752
+8930390294,2501,supermarket,La Bonita Supermarkets,-115.24174,36.11338
+8951115761,2501,supermarket,Albertsons,-115.20921,36.24039
+8952341530,2501,supermarket,Albertsons,-115.2804,36.11598
+8952766285,2501,supermarket,Albertsons,-115.12024,36.05798
+8952771626,2501,supermarket,Albertsons,-115.13811,36.01222
+8956631906,2501,supermarket,Albertsons,-115.04917,36.02048
+9027523917,2402,motel,Motel 6,-115.1817,36.09794
+9030275817,2501,supermarket,Albertsons,-115.22418,36.09889
+9104573795,2082,school,East Career Technical Academy,-115.02689,36.13632
+9152445929,2303,cafe,Starbucks,-115.12777,35.99668
+302150967,2007,library,Sahara West Library,-115.30471,36.14527
+302174918,2005,post_office,,-115.26372,36.08437
+302763177,2005,post_office,,-115.30627,36.18871
+303330370,2002,fire_station,,-115.19545,36.16023
+303572100,2007,library,Rainbow Library,-115.2593,36.21731
+304467800,2002,fire_station,,-115.18424,36.04692
+304590221,2007,library,Green Valley Library,-115.08307,36.07051
+304712434,2005,post_office,Main Post Office,-115.13957,36.07098
+304716488,2001,police,Nevada Highway Patrol,-115.20453,36.07142
+305100846,2001,police,Metro Dispatch Center,-115.20463,36.08553
+305811874,2002,fire_station,Clark County Fire Department,-115.10069,36.09544
+305844680,2007,library,Whitney Library,-115.06023,36.09979
+357561645,2005,post_office,Saint Joseph Post Office,-114.4497,36.57275
+357561648,2005,post_office,Logandale Post Office,-114.48422,36.59797
+357561660,2005,post_office,Kaolin Post Office,-114.41414,36.50692
+357561712,2005,post_office,Sloan Post Office,-115.21773,35.94289
+357561717,2005,post_office,Quartette Post Office,-114.92248,35.45221
+357561722,2005,post_office,Platina Post Office,-115.57973,35.8022
+357562190,2005,post_office,Keystone Post Office,-115.60639,35.80164
+357562193,2005,post_office,Ripley Post Office,-115.60167,35.79803
+357562196,2005,post_office,Sandy Post Office,-115.605,35.80414
+357563391,2005,post_office,Bunkerville Post Office,-114.12802,36.77303
+357563514,2005,post_office,Laughlin Rural Branch Post Office,-114.57303,35.16772
+357563745,2005,post_office,Goodsprings Rural Station Post Office,-115.43392,35.8327
+357563876,2005,post_office,Blue Diamond Post Office,-115.40697,36.04754
+357563907,2005,post_office,Searchlight Post Office,-114.91822,35.46345
+357564111,2005,post_office,Pittman Station Post Office,-115.00805,36.0622
+357564128,2005,post_office,Moapa Post Office,-114.6236,36.67192
+357564225,2005,post_office,Indian Springs Post Office,-115.67092,36.57741
+357564269,2005,post_office,North Las Vegas Post Office,-115.11806,36.19497
+357564292,2005,post_office,Airport Branch Post Office,-115.15055,36.08525
+357564301,2005,post_office,Bonanza Station Post Office,-115.155,36.17664
+357564308,2005,post_office,Cal Nev Ari Rural Branch Post Office,-114.88386,35.29361
+357564319,2005,post_office,Cottonwood Cove Rural Branch Post Office,-114.68692,35.49124
+357564326,2005,post_office,Federal Station Post Office,-115.14361,36.16636
+357564333,2005,post_office,Garside Station Post Office,-115.20722,36.15608
+357564336,2005,post_office,Huntridge Station Post Office,-115.105,36.15497
+357564339,2005,post_office,Jean Post Office,-115.32228,35.78092
+357564355,2005,post_office,Nellis Air Force Base Branch Post Office,-115.04556,36.24219
+357564358,2005,post_office,Old Nevada Village Rural Station Post Office,-115.45945,36.06747
+357568267,2005,post_office,Crossroads Post Office,-115.22371,36.27269
+357568270,2005,post_office,Desert Inn Post Office,-115.11768,36.13003
+357568273,2005,post_office,Emerald Post Office,-115.22533,36.11596
+357568276,2005,post_office,Garside Post Office,-115.20836,36.15125
+357568280,2005,post_office,Green Valley Post Office,-115.08191,36.06996
+357568282,2005,post_office,King Post Office,-115.16181,36.19131
+357568285,2005,post_office,Las Vegas Post Office Station Number 4,-115.11774,36.17375
+357568289,2005,post_office,Meadow Mesa Post Office,-115.15236,36.2505
+357568292,2005,post_office,Poe 61 Post Office,-115.07902,36.17311
+357568295,2005,post_office,Poe 62 Post Office,-115.12238,36.10071
+357568298,2005,post_office,united postal service,-115.275,36.22002
+357568302,2005,post_office,Poe 65 Post Office,-115.22629,36.19609
+357568308,2005,post_office,Red Rock Vista Post Office,-115.25195,36.20475
+357568320,2005,post_office,Summerlin Post Office,-115.30689,36.18939
+357568327,2005,post_office,Topaz Post Office,-115.20665,36.20764
+357568333,2005,post_office,Winterwood Post Office,-115.06381,36.13767
+366087757,2009,courthouse,North Las Vegas Justice Center,-115.16005,36.20412
+366087770,2002,fire_station,Mesquite Fire Station Number 2,-114.05647,36.83518
+366087771,2002,fire_station,North Las Vegas Fire Station Number 51,-115.11321,36.20354
+366087773,2002,fire_station,North Las Vegas Fire Station Number 52,-115.1161,36.23458
+366087780,2002,fire_station,City of Las Vegas Fire Station Number 1,-115.14059,36.17515
+366087783,2002,fire_station,City of Las Vegas Fire Station Number 2,-115.27838,36.16165
+366087784,2002,fire_station,City of Las Vegas Fire Station Number 3,-115.17723,36.18066
+366087786,2002,fire_station,North Las Vegas Fire Station Number 54,-115.15361,36.25967
+366087789,2002,fire_station,North Las Vegas Fire Station Number 56,-115.18611,36.29071
+366087790,2002,fire_station,Boulder City Fire Station Number 1,-114.84693,35.97132
+366087793,2002,fire_station,City of Las Vegas Fire Station Number 44,-115.26217,36.18098
+366087795,2002,fire_station,City of Las Vegas Fire Station Number 6,-115.22296,36.17314
+366087796,2002,fire_station,City of Las Vegas Fire Station Number 5,-115.19544,36.16039
+366087797,2002,fire_station,City of Las Vegas Fire Station Number 41,-115.26085,36.28691
+366087799,2002,fire_station,City of Las Vegas Fire Station Number 43,-115.234,36.20367
+366087801,2002,fire_station,Clark County Fire Station Number 13,-115.15672,36.08246
+366087803,2002,fire_station,Clark County Fire Station Number 12,-115.17121,36.13363
+366087806,2002,fire_station,Clark County Fire Station Number 14,-115.11366,36.13079
+366087810,2002,fire_station,Clark County Fire Station Number 11,-115.17387,36.08328
+366087811,2002,fire_station,City of Las Vegas Fire Station Number 9,-115.24263,36.24737
+366087812,2002,fire_station,Clark County Fire Station Number 22,-115.23916,36.11409
+366087814,2002,fire_station,Clark County Fire Station Number 23,-115.08145,36.2331
+366087815,2002,fire_station,Clark County Fire Station Number 20,-115.048,36.20021
+366087817,2002,fire_station,Clark County Fire Station Number 18,-115.15091,36.11425
+366087818,2002,fire_station,Clark County Fire Station Number 19,-115.12743,36.0861
+366087820,2002,fire_station,Clark County Fire Station Number 16,-115.06184,36.16165
+366087822,2002,fire_station,Clark County Fire Station Number 34,-115.28107,36.08116
+366087828,2002,fire_station,Clark County Fire Station Number 26,-115.28757,36.11643
+366087829,2002,fire_station,Clark County Fire Station Number 27,-115.07256,36.13652
+366087831,2002,fire_station,Clark County Fire Station Number 24,-115.18403,36.05308
+366087832,2002,fire_station,Clark County Fire Station Number 25,-115.10035,36.09528
+366087833,2002,fire_station,Clark County Fire Station Number 77,-115.64595,35.80992
+366087836,2002,fire_station,Clark County Fire Station Number 75,-114.91598,35.46497
+366087837,2002,fire_station,Clark County Fire Station Number 74,-114.44461,36.54576
+366087839,2002,fire_station,Clark County Fire Station Number 72,-114.59048,36.671
+366087840,2002,fire_station,Clark County Fire Station Number 71,-114.12946,36.77342
+366087842,2002,fire_station,Clark County Fire Station Number 65,-115.19025,35.98434
+366087843,2002,fire_station,Clark County Fire Station Number 85,-114.62334,35.12912
+366087845,2002,fire_station,Clark County Fire Station Number 84,-114.88146,35.29823
+366087847,2002,fire_station,Clark County Fire Station Number 83,-115.67681,36.56959
+366087848,2002,fire_station,Clark County Fire Station Number 82,-115.73789,36.41593
+366087849,2002,fire_station,Clark County Fire Station Number 81,-115.64506,36.25995
+366087850,2002,fire_station,Clark County Fire Station Number 80,-115.40812,36.04833
+366087853,2002,fire_station,Clark County Fire Station Number 78,-115.44079,35.83608
+366087855,2002,fire_station,Henderson Fire Station Number 95,-115.08942,36.03049
+366087856,2002,fire_station,Henderson Fire Station Number 94,-115.06825,36.05664
+366087857,2002,fire_station,Henderson Fire Station Number 98,-115.11086,35.99967
+366087861,2002,fire_station,Henderson Fire Station Number 99,-115.0931,35.95154
+366087868,2002,fire_station,Henderson Fire Station Number 83,-114.97574,36.04325
+366087872,2002,fire_station,Henderson Fire Station Number 86,-114.93637,36.10129
+366087873,2002,fire_station,Henderson Fire Station Number 93,-114.97578,36.04327
+366087876,2007,library,Clark County Library,-115.13502,36.11381
+366087877,2007,library,Enterprise Library,-115.1711,36.0384
+366087883,2007,library,Las Vegas Branch Genealogical Library,-115.13906,36.1622
+366087892,2007,library,Summerlin Library,-115.3017,36.19125
+366087895,2007,library,West Charleston Library,-115.2309,36.1583
+366087896,2007,library,West Las Vegas Library,-115.1545,36.1952
+366087905,2001,police,Police Station and Justice Facility,-114.0587,36.8119
+366087912,2007,library,Meadows Village Library,-115.16012,36.14699
+366087913,2001,police,Boulder City Police Station,-114.8337,35.9779
+366087914,2001,police,Airport Center Las Vegas Metropolitan Police Station,-115.14627,36.08249
+366087916,2001,police,North Las Vegas Police Department,-115.12424,36.19505
+366087925,2008,town_hall,North Las Vegas City Hall,-115.12118,36.20052
+366087976,2008,town_hall,Sunrise Town Hall,-115.06152,36.17973
+366088170,2001,police,Las Vegas Metropolitan Police Department Southwest Substation,-115.2213,36.1251
+455226680,2005,post_office,The UPS Store,-115.17157,36.05197
+1262424618,2005,post_office,,-115.20565,35.99647
+1699968678,2007,library,Warm Springs Public Library,-115.24632,36.04241
+2203804018,2005,post_office,HEA-Employment.com,-115.20882,36.24739
+2341601450,2009,courthouse,Searchlight Justice Court,-114.90544,35.46819
+2367324568,2001,police,Sheriff Station,-115.32384,35.77888
+2688901475,2002,fire_station,Fire Station 48,-115.29522,36.29232
+2888437120,2005,post_office,Post Office,-115.1414,36.16778
+3054878931,2007,library,Library,-115.24707,36.03819
+3192405689,2005,post_office,The UPS Store,-115.09023,36.11593
+3474537669,2005,post_office,The UPS Store,-115.05435,36.10099
+3796631542,2005,post_office,The UPS Store,-115.13548,36.11561
+3822204549,2005,post_office,The UPS Store,-115.04594,36.15806
+3864331944,2001,police,Metro Police,-115.13424,36.08627
+3864331946,2005,post_office,The UPS Store,-115.13471,36.0863
+3963103311,2002,fire_station,,-115.12846,36.08873
+4223117731,2005,post_office,,-114.8464,35.97221
+4396849593,2005,post_office,UPS Customer Center,-115.15706,36.0603
+4462400191,2005,post_office,Overton Post Office,-114.44346,36.54366
+5250921239,2007,library,Nuclear Testing Archive-Public Reading Facility,-115.14807,36.11406
+5359044140,2005,post_office,The UPS Store,-115.04918,36.04128
+5462446896,2011,embassy,Honorary Consulate of the Czech Republic,-115.08837,36.07894
+6181927385,2005,post_office,The UPS Store,-115.29645,36.09594
+6554777925,2001,police,Nevada Parole and Probation,-115.13997,36.17561
+6738084485,2005,post_office,The UPS Store,-115.20924,36.11819
+6923458378,2002,fire_station,Station 57,-115.10523,36.27309
+7021329811,2005,post_office,FedEx,-115.35069,36.16079
+7021446518,2005,post_office,Postal Pros,-115.35002,36.15985
+7021584056,2005,post_office,The UPS Store,-115.33468,36.14498
+8568261459,2005,post_office,The UPS Store,-115.17404,36.16162
+8595840800,2005,post_office,The UPS Store,-115.18866,36.14569
+8747449484,2005,post_office,UPS Store,-115.20515,36.14585

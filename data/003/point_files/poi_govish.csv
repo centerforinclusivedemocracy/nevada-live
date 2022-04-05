@@ -1,0 +1,154 @@
+,osm_id,code,fclass,name,lon,lat
+0,302150967,2007,library,Sahara West Library,-115.30471,36.14527
+1,302174918,2005,post_office,,-115.26372,36.08437
+2,302763177,2005,post_office,,-115.30627,36.18871
+3,303330370,2002,fire_station,,-115.19545,36.16023
+4,303572100,2007,library,Rainbow Library,-115.2593,36.21731
+5,304467800,2002,fire_station,,-115.18424,36.04692
+6,304590221,2007,library,Green Valley Library,-115.08307,36.07051
+7,304712434,2005,post_office,Main Post Office,-115.13957,36.07098
+8,304716488,2001,police,Nevada Highway Patrol,-115.20453,36.07142
+9,305100846,2001,police,Metro Dispatch Center,-115.20463,36.08553
+10,305811874,2002,fire_station,Clark County Fire Department,-115.10069,36.09544
+11,305844680,2007,library,Whitney Library,-115.06023,36.09979
+12,357561645,2005,post_office,Saint Joseph Post Office,-114.4497,36.57275
+13,357561648,2005,post_office,Logandale Post Office,-114.48422,36.59797
+14,357561660,2005,post_office,Kaolin Post Office,-114.41414,36.50692
+15,357561712,2005,post_office,Sloan Post Office,-115.21773,35.94289
+16,357561717,2005,post_office,Quartette Post Office,-114.92248,35.45221
+17,357561722,2005,post_office,Platina Post Office,-115.57973,35.8022
+18,357562190,2005,post_office,Keystone Post Office,-115.60639,35.80164
+19,357562193,2005,post_office,Ripley Post Office,-115.60167,35.79803
+20,357562196,2005,post_office,Sandy Post Office,-115.605,35.80414
+21,357563391,2005,post_office,Bunkerville Post Office,-114.12802,36.77303
+22,357563514,2005,post_office,Laughlin Rural Branch Post Office,-114.57303,35.16772
+23,357563745,2005,post_office,Goodsprings Rural Station Post Office,-115.43392,35.8327
+24,357563876,2005,post_office,Blue Diamond Post Office,-115.40697,36.04754
+25,357563907,2005,post_office,Searchlight Post Office,-114.91822,35.46345
+26,357564111,2005,post_office,Pittman Station Post Office,-115.00805,36.0622
+27,357564128,2005,post_office,Moapa Post Office,-114.6236,36.67192
+28,357564225,2005,post_office,Indian Springs Post Office,-115.67092,36.57741
+29,357564269,2005,post_office,North Las Vegas Post Office,-115.11806,36.19497
+30,357564292,2005,post_office,Airport Branch Post Office,-115.15055,36.08525
+31,357564301,2005,post_office,Bonanza Station Post Office,-115.155,36.17664
+32,357564308,2005,post_office,Cal Nev Ari Rural Branch Post Office,-114.88386,35.29361
+33,357564319,2005,post_office,Cottonwood Cove Rural Branch Post Office,-114.68692,35.49124
+34,357564326,2005,post_office,Federal Station Post Office,-115.14361,36.16636
+35,357564333,2005,post_office,Garside Station Post Office,-115.20722,36.15608
+36,357564336,2005,post_office,Huntridge Station Post Office,-115.105,36.15497
+37,357564339,2005,post_office,Jean Post Office,-115.32228,35.78092
+38,357564355,2005,post_office,Nellis Air Force Base Branch Post Office,-115.04556,36.24219
+39,357564358,2005,post_office,Old Nevada Village Rural Station Post Office,-115.45945,36.06747
+40,357568267,2005,post_office,Crossroads Post Office,-115.22371,36.27269
+41,357568270,2005,post_office,Desert Inn Post Office,-115.11768,36.13003
+42,357568273,2005,post_office,Emerald Post Office,-115.22533,36.11596
+43,357568276,2005,post_office,Garside Post Office,-115.20836,36.15125
+44,357568280,2005,post_office,Green Valley Post Office,-115.08191,36.06996
+45,357568282,2005,post_office,King Post Office,-115.16181,36.19131
+46,357568285,2005,post_office,Las Vegas Post Office Station Number 4,-115.11774,36.17375
+47,357568289,2005,post_office,Meadow Mesa Post Office,-115.15236,36.2505
+48,357568292,2005,post_office,Poe 61 Post Office,-115.07902,36.17311
+49,357568295,2005,post_office,Poe 62 Post Office,-115.12238,36.10071
+50,357568298,2005,post_office,united postal service,-115.275,36.22002
+51,357568302,2005,post_office,Poe 65 Post Office,-115.22629,36.19609
+52,357568308,2005,post_office,Red Rock Vista Post Office,-115.25195,36.20475
+53,357568320,2005,post_office,Summerlin Post Office,-115.30689,36.18939
+54,357568327,2005,post_office,Topaz Post Office,-115.20665,36.20764
+55,357568333,2005,post_office,Winterwood Post Office,-115.06381,36.13767
+56,366087757,2009,courthouse,North Las Vegas Justice Center,-115.16005,36.20412
+57,366087770,2002,fire_station,Mesquite Fire Station Number 2,-114.05647,36.83518
+58,366087771,2002,fire_station,North Las Vegas Fire Station Number 51,-115.11321,36.20354
+59,366087773,2002,fire_station,North Las Vegas Fire Station Number 52,-115.1161,36.23458
+60,366087780,2002,fire_station,City of Las Vegas Fire Station Number 1,-115.14059,36.17515
+61,366087783,2002,fire_station,City of Las Vegas Fire Station Number 2,-115.27838,36.16165
+62,366087784,2002,fire_station,City of Las Vegas Fire Station Number 3,-115.17723,36.18066
+63,366087786,2002,fire_station,North Las Vegas Fire Station Number 54,-115.15361,36.25967
+64,366087789,2002,fire_station,North Las Vegas Fire Station Number 56,-115.18611,36.29071
+65,366087790,2002,fire_station,Boulder City Fire Station Number 1,-114.84693,35.97132
+66,366087793,2002,fire_station,City of Las Vegas Fire Station Number 44,-115.26217,36.18098
+67,366087795,2002,fire_station,City of Las Vegas Fire Station Number 6,-115.22296,36.17314
+68,366087796,2002,fire_station,City of Las Vegas Fire Station Number 5,-115.19544,36.16039
+69,366087797,2002,fire_station,City of Las Vegas Fire Station Number 41,-115.26085,36.28691
+70,366087799,2002,fire_station,City of Las Vegas Fire Station Number 43,-115.234,36.20367
+71,366087801,2002,fire_station,Clark County Fire Station Number 13,-115.15672,36.08246
+72,366087803,2002,fire_station,Clark County Fire Station Number 12,-115.17121,36.13363
+73,366087806,2002,fire_station,Clark County Fire Station Number 14,-115.11366,36.13079
+74,366087810,2002,fire_station,Clark County Fire Station Number 11,-115.17387,36.08328
+75,366087811,2002,fire_station,City of Las Vegas Fire Station Number 9,-115.24263,36.24737
+76,366087812,2002,fire_station,Clark County Fire Station Number 22,-115.23916,36.11409
+77,366087814,2002,fire_station,Clark County Fire Station Number 23,-115.08145,36.2331
+78,366087815,2002,fire_station,Clark County Fire Station Number 20,-115.048,36.20021
+79,366087817,2002,fire_station,Clark County Fire Station Number 18,-115.15091,36.11425
+80,366087818,2002,fire_station,Clark County Fire Station Number 19,-115.12743,36.0861
+81,366087820,2002,fire_station,Clark County Fire Station Number 16,-115.06184,36.16165
+82,366087822,2002,fire_station,Clark County Fire Station Number 34,-115.28107,36.08116
+83,366087828,2002,fire_station,Clark County Fire Station Number 26,-115.28757,36.11643
+84,366087829,2002,fire_station,Clark County Fire Station Number 27,-115.07256,36.13652
+85,366087831,2002,fire_station,Clark County Fire Station Number 24,-115.18403,36.05308
+86,366087832,2002,fire_station,Clark County Fire Station Number 25,-115.10035,36.09528
+87,366087833,2002,fire_station,Clark County Fire Station Number 77,-115.64595,35.80992
+88,366087836,2002,fire_station,Clark County Fire Station Number 75,-114.91598,35.46497
+89,366087837,2002,fire_station,Clark County Fire Station Number 74,-114.44461,36.54576
+90,366087839,2002,fire_station,Clark County Fire Station Number 72,-114.59048,36.671
+91,366087840,2002,fire_station,Clark County Fire Station Number 71,-114.12946,36.77342
+92,366087842,2002,fire_station,Clark County Fire Station Number 65,-115.19025,35.98434
+93,366087843,2002,fire_station,Clark County Fire Station Number 85,-114.62334,35.12912
+94,366087845,2002,fire_station,Clark County Fire Station Number 84,-114.88146,35.29823
+95,366087847,2002,fire_station,Clark County Fire Station Number 83,-115.67681,36.56959
+96,366087848,2002,fire_station,Clark County Fire Station Number 82,-115.73789,36.41593
+97,366087849,2002,fire_station,Clark County Fire Station Number 81,-115.64506,36.25995
+98,366087850,2002,fire_station,Clark County Fire Station Number 80,-115.40812,36.04833
+99,366087853,2002,fire_station,Clark County Fire Station Number 78,-115.44079,35.83608
+100,366087855,2002,fire_station,Henderson Fire Station Number 95,-115.08942,36.03049
+101,366087856,2002,fire_station,Henderson Fire Station Number 94,-115.06825,36.05664
+102,366087857,2002,fire_station,Henderson Fire Station Number 98,-115.11086,35.99967
+103,366087861,2002,fire_station,Henderson Fire Station Number 99,-115.0931,35.95154
+104,366087868,2002,fire_station,Henderson Fire Station Number 83,-114.97574,36.04325
+105,366087872,2002,fire_station,Henderson Fire Station Number 86,-114.93637,36.10129
+106,366087873,2002,fire_station,Henderson Fire Station Number 93,-114.97578,36.04327
+107,366087876,2007,library,Clark County Library,-115.13502,36.11381
+108,366087877,2007,library,Enterprise Library,-115.1711,36.0384
+109,366087883,2007,library,Las Vegas Branch Genealogical Library,-115.13906,36.1622
+110,366087892,2007,library,Summerlin Library,-115.3017,36.19125
+111,366087895,2007,library,West Charleston Library,-115.2309,36.1583
+112,366087896,2007,library,West Las Vegas Library,-115.1545,36.1952
+113,366087905,2001,police,Police Station and Justice Facility,-114.0587,36.8119
+114,366087912,2007,library,Meadows Village Library,-115.16012,36.14699
+115,366087913,2001,police,Boulder City Police Station,-114.8337,35.9779
+116,366087914,2001,police,Airport Center Las Vegas Metropolitan Police Station,-115.14627,36.08249
+117,366087916,2001,police,North Las Vegas Police Department,-115.12424,36.19505
+118,366087925,2008,town_hall,North Las Vegas City Hall,-115.12118,36.20052
+119,366087976,2008,town_hall,Sunrise Town Hall,-115.06152,36.17973
+120,366088170,2001,police,Las Vegas Metropolitan Police Department Southwest Substation,-115.2213,36.1251
+121,455226680,2005,post_office,The UPS Store,-115.17157,36.05197
+122,1262424618,2005,post_office,,-115.20565,35.99647
+123,1699968678,2007,library,Warm Springs Public Library,-115.24632,36.04241
+124,2203804018,2005,post_office,HEA-Employment.com,-115.20882,36.24739
+125,2341601450,2009,courthouse,Searchlight Justice Court,-114.90544,35.46819
+126,2367324568,2001,police,Sheriff Station,-115.32384,35.77888
+127,2688901475,2002,fire_station,Fire Station 48,-115.29522,36.29232
+128,2888437120,2005,post_office,Post Office,-115.1414,36.16778
+129,3054878931,2007,library,Library,-115.24707,36.03819
+130,3192405689,2005,post_office,The UPS Store,-115.09023,36.11593
+131,3474537669,2005,post_office,The UPS Store,-115.05435,36.10099
+132,3796631542,2005,post_office,The UPS Store,-115.13548,36.11561
+133,3822204549,2005,post_office,The UPS Store,-115.04594,36.15806
+134,3864331944,2001,police,Metro Police,-115.13424,36.08627
+135,3864331946,2005,post_office,The UPS Store,-115.13471,36.0863
+136,3963103311,2002,fire_station,,-115.12846,36.08873
+137,4223117731,2005,post_office,,-114.8464,35.97221
+138,4396849593,2005,post_office,UPS Customer Center,-115.15706,36.0603
+139,4462400191,2005,post_office,Overton Post Office,-114.44346,36.54366
+140,5250921239,2007,library,Nuclear Testing Archive-Public Reading Facility,-115.14807,36.11406
+141,5359044140,2005,post_office,The UPS Store,-115.04918,36.04128
+142,5462446896,2011,embassy,Honorary Consulate of the Czech Republic,-115.08837,36.07894
+143,6181927385,2005,post_office,The UPS Store,-115.29645,36.09594
+144,6554777925,2001,police,Nevada Parole and Probation,-115.13997,36.17561
+145,6738084485,2005,post_office,The UPS Store,-115.20924,36.11819
+146,6923458378,2002,fire_station,Station 57,-115.10523,36.27309
+147,7021329811,2005,post_office,FedEx,-115.35069,36.16079
+148,7021446518,2005,post_office,Postal Pros,-115.35002,36.15985
+149,7021584056,2005,post_office,The UPS Store,-115.33468,36.14498
+150,8568261459,2005,post_office,The UPS Store,-115.17404,36.16162
+151,8595840800,2005,post_office,The UPS Store,-115.18866,36.14569
+152,8747449484,2005,post_office,UPS Store,-115.20515,36.14585

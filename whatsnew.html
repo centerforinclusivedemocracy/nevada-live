@@ -76,8 +76,8 @@
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
     <link rel="stylesheet" href="./sitewide.css?cachebust-8a9647ef04" />
     <script src="./sitewide.js?cachebust-a37309fb73"></script>
-    <link rel="stylesheet" href="./accessibility.css?cachebust-8be1f32d75" />
-    <script src="./accessibility.js?cachebust-8be1f32d75"></script>
+    <link rel="stylesheet" href="./whatsnew.css?cachebust-979c366f2f" />
+    <script src="./whatsnew.js?cachebust-c789505063"></script>
 </head>
 <body>
 
@@ -105,69 +105,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </nav>
 <div class="container" id="main-page-content">
-    <h1 class="mb-3">Usability Resources</h1>
+  <div class="row">
+    <div class="col">
+      <h1 id="title">What's New</h1>
+      <button class="accordion"><h3 id="button">June 15, 2022 Update <i class="fa fa-chevron-down"></i></h3></button>
+      <div class="panel-open">
+        <br>
+        <p>
+          The Nevada Voting Location Siting Tool was updated on June 15, 2022 with the following changes to the voting location data and map design. For more detailed information about our methods please see our <a href="methodology.html" target="_blank">Methodology</a>.
+        </p>
 
-    <div>
-        <h2>Google Chrome</h2>
-
-        <ul>
-            <li><b>Increase PC Text Size:</b> To increase the size of text and other items on a page, press <span class="kbdkeys"><kbd>Ctrl</kbd></span> and <span class="kbdkeys"><kbd>+</kbd></span> to zoom in, and <span class="kbdkeys"><kbd>Ctrl</kbd></span> and <span class="kbdkeys"><kbd>-</kbd></span> to zoom out.</li>
-            <li><b>Increase Mac Text Size:</b> To increase the size of text and other items on a page, press <span class="kbdkeys"><kbd>Command</kbd></span> and <span class="kbdkeys"><kbd>+</kbd></span> to zoom in, and <span class="kbdkeys"><kbd>Command</kbd></span> and <span class="kbdkeys"><kbd>-</kbd></span> to zoom out.</li>
-        </ul>
-
-        <div class="ml-3">
-            <h3>Useful Extensions</h3>
+        <h2 id="data">Data Updates</h2>
+            The following Siting Tool data sources have been added:
             <ul>
-                <li><b><a href="https://chrome.google.com/webstore/detail/zoom-text-only/jamhfhbppcmkgghlkeieococonlbppjg?hl=en-US" target="_blank" rel="nofollow">Zoom Text Only</a></b>: Extension for zooming text without changing the size of images on a page.</li>
-                <li><b><a href="https://chrome.google.com/webstore/detail/dyslexia-reader-chrome/npfbahgomodenajejiopcfbggcpkcani?hl=en-US" target="_blank" rel="nofollow">Dyslexia Reader Chrome</a></b>: Extension that makes text easier to read.</li>
-                <li><b><a href="https://chrome.google.com/webstore/detail/care-your-eyes/fidmpnedniahpnkeomejhnepmbdamlhl?hl=en" target="_blank" rel="nofollow">Care Your Eyes</a></b>: Extension that changes a webpage's background color to either reseda or night mode, to protect your eyes from harsh white or other light colors.</li>
+              <li>2016 Vote By Mail Rate (Black)</li>
+              <li>2020 Vote By Mail Rate (Black)</li>
+              <li>2016 Registered Voter Turnout Rate (Black)</li>
+              <li>2020 Registered Voter Turnout Rate (Black)</li>
             </ul>
-        </div>
-    </div>
-
-    <div>
-        <h2>Firefox</h2>
-
-        <ul>
-            <li><b>Increase PC Text Size:</b> To increase the size of text and other items on a page, press <span class="kbdkeys"><kbd>Ctrl</kbd></span> and <span class="kbdkeys"><kbd>+</kbd></span> to zoom in, and <span class="kbdkeys"><kbd>Ctrl</kbd></span> and <span class="kbdkeys"><kbd>-</kbd></span> to zoom out.</li>
-            <li><b>Increase Mac Text Size:</b> To increase the size of text and other items on a page, press <span class="kbdkeys"><kbd>Command</kbd></span> and <span class="kbdkeys"><kbd>+</kbd></span> to zoom in, and <span class="kbdkeys"><kbd>Command</kbd></span> and <span class="kbdkeys"><kbd>-</kbd></span> to zoom out.</li>
-            <li><b><a href="https://support.mozilla.org/en-US/kb/accessibility-features-firefox-make-firefox-and-we" target="_blank" rel="nofollow">More information about Firefox's accessiblity features</a></b></li>
-        </ul>
-
-        <div class="ml-3">
-            <h3>Useful Extensions</h3>
+            The following changes were made to the data processing:
             <ul>
-                <li><b><a href="https://addons.mozilla.org/en-US/firefox/addon/mobile-dyslexic/">Mobile Dyslexic</a></b>: Extension that replaces web page fonts with a font that is easier to read by people with dyslexia.</li>
+              <li>Duplicate Precincts: Precincts with duplicate names were removed from the precinct shapefile prior to joining with the voter data to prevent duplicated voter data. As a result, the voter data layers may have changed for some counties.</li> 
             </ul>
-        </div>
-    </div>
 
-    <div>
-        <h2>Internet Explorer</h2>
-
+        <h2 id="design">Map Design Updates</h2> 
         <ul>
-            <li><b>Increase Text Size:</b> To increase the size of text and other items on a page, press <span class="kbdkeys"><kbd>Ctrl</kbd></span> and <span class="kbdkeys"><kbd>+</kbd></span> to zoom in, and <span class="kbdkeys"><kbd>Ctrl</kbd></span> and <span class="kbdkeys"><kbd>-</kbd></span> to zoom out.</li>
-            <li><b>Zoom Tool:</b> Open Internet Explorer, select the <b><i>Tools</b></i> button  and then select <b><i>Zoom</i></b>. Select a zoom level option, or select a custom level by selecting Custom and entering a zoom value.</li>
-            <li><b><a href="https://support.microsoft.com/en-us/help/17456/windows-internet-explorer-ease-of-access-options" target="_blank" rel="nofollow">More information about IE's ease of access features</a></b></li>
-        </ul>
-
-        <div class="ml-3">
-        </div>
+          <li><b>Voter Data Dropdown: </b>Voter data split by subgroups can now be viewed under each category's "Total" field by clicking the dropdown arrows for the following fields: 2016 Vote by Mail Rate, 2020 Vote by Mail Rate, 2016 Registered Voter Turnout Rate, 2020 Registered Voter Turnout Rate.</li>
+        </ul>        
+    </div>   
     </div>
-
-    <div>
-        <h2>Safari</h2>
-
-        <ul>
-            <li><b>Increase Mac Text Size:</b> To increase the size of text and other items on a page, press <span class="kbdkeys"><kbd>Command</kbd></span> and <span class="kbdkeys"><kbd>+</kbd></span> to zoom in, and <span class="kbdkeys"><kbd>Command</kbd></span> and <span class="kbdkeys"><kbd>-</kbd></span> to zoom out.</li>
-            <li><b><a href="https://mediaaccess.org.au/web/web-browsers/how-to-turn-on-accessibility-features-in-safari" target="_blank" rel="nofollow">More information about accessibility features in Safari</a></b></li>
-        </ul>
-
-        <div class="ml-3">
-        </div>
-    </div>
-</div><!--/container-->
-<!-- common footer for all pages; see style_footer.css -->
+  </div>
+</div> <!--  container  -->
+  <!-- common footer for all pages; see style_footer.css -->
 
 <footer class="footer">
     <div class="container-fluid">
